@@ -1,4 +1,4 @@
-# 120-Minute Challenge: The Tri-Tier Chatbot (CLI)
+# GCO Feb 26: The Tri-Tier Chatbot (CLI)
 
 ## Objective
 Build a Console Application (Java, Kotlin, or Dart) that functions as an intelligent chatbot.
