@@ -1,7 +1,7 @@
 # GCO Feb 26: The Tri-Tier Chatbot (CLI)
 
 ## Objective
-Build a Console Application (Java, Kotlin, or Dart) that functions as an intelligent chatbot.
+Build a Console Application that functions as an intelligent chatbot.
 
 ## Core Requirements
 1. **Console Interface:** The app must run in a continuous terminal loop.
